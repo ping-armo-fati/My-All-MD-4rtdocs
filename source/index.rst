@@ -5,11 +5,6 @@
 
 Welcome to My All Markdown by Pq Y
 =================================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 .. warn::
    这是一个警告
 
@@ -18,6 +13,15 @@ Welcome to My All Markdown by Pq Y
 
 .. code-block:: bash
    $ 这是一个shell
+
+   
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents:
+
+   about
+
+
 
 Indices and tables
 ==================
