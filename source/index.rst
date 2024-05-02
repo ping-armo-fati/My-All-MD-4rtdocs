@@ -7,12 +7,10 @@ Welcome to My All Markdown by Pq Y
 =================================================
 
 .. note::
-   🎓🎓🎓 本文档的目的是帮助大家快速入门Kubernetes，并通过 ``Certified Kubernetes Administrator (CKA)`` 的认证考试。
-
-   目前课程基于的版本是Kubernetes ``v1.29.x`` （2024年3月份更新） ，并且会持续更新。
+   会持续更新。
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
 
    about
