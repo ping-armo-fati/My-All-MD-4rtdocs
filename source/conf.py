@@ -17,6 +17,10 @@ author = 'Pingqiu Yuan'
 extensions = ['recommonmark','sphinx_rtd_theme','sphinx_markdown_tables']
 templates_path = ['_templates']
 exclude_patterns = []
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 language = 'zh_CN'
 
