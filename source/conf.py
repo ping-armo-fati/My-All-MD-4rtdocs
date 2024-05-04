@@ -14,7 +14,7 @@ author = 'Pingqiu Yuan'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 
-extensions = ['recommonmark','sphinx_rtd_theme']
+extensions = ['recommonmark','sphinx_rtd_theme','sphinx_markdown_tables']
 templates_path = ['_templates']
 exclude_patterns = []
 
